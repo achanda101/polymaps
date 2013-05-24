@@ -6,11 +6,14 @@ JS_FILES = \
 	src/Transform.js \
 	src/Cache.js \
 	src/Url.js \
+	src/BackwardsURL.js \
 	src/Dispatch.js \
 	src/Queue.js \
 	src/Map.js \
 	src/Layer.js \
 	src/Image.js \
+	src/BackwardsImage.js \
+	src/BackwardsInfoLayer.js \
 	src/GeoJson.js \
 	src/Dblclick.js \
 	src/Drag.js \
